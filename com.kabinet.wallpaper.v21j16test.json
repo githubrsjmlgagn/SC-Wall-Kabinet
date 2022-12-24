@@ -52,19 +52,19 @@
 "FAN_NATIVE" : "YOUR_PLACEMENT_ID",
 
 
-"BUTTON_RATING" : "RATE",
+"BUTTON_RATING" : "RATE APPS",
 "BUTTON_SHARE" : "SHARE",
 "BUTTON_START" : "START",
 
 "EXIT_POPUP_DIALOG" : "
 Love this Apps?
 
-Support Us to give rate 5 stars
+Support Us on Google Playstore
 
-Please click rating button! Thanks:)
+Thank You:)
 
 ",
-"RATE_BUTTON" : "RATE ON PLAYSTORE",
+"RATE_BUTTON" : "RATE APPS ON PLAYSTORE",
 "LATER_BUTTON" : "LATER",
 "ENABLE_SHARE_BUTTON" : true,
 "SHARE_TXT" : "
