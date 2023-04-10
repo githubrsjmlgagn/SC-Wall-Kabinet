@@ -52,24 +52,23 @@
 "FAN_NATIVE" : "YOUR_PLACEMENT_ID",
 
 
-"BUTTON_RATING" : "RATE APPS",
-"BUTTON_SHARE" : "MORE APPS (Ad)",
-"BUTTON_START" : "START",
+"BUTTON_RATING" : "Rate Us",
+"BUTTON_SHARE" : "More Apps(Ad)",
+"BUTTON_START" : "Start",
 
 "EXIT_POPUP_DIALOG" : "
-If you love this apps,
-Support us on Google Playstore
-Thank You:)
+Share your feedback!
+Give us ratings and reviews on Playstore.
 
 ",
-"RATE_BUTTON" : "RATE APPS ON PLAYSTORE",
-"LATER_BUTTON" : "LATER",
+"RATE_BUTTON" : "Rate Us",
+"LATER_BUTTON" : "Later",
 "ENABLE_SHARE_BUTTON" : false,
 "SHARE_TXT" : "
 Wow, Amazing apps. Lets install it!
 
 ",
-"MORE_BUTTON" : "more apps",
+"MORE_BUTTON" : "More Apps",
 "URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=com.mojang.minecraftpe",
 
 "REDIRECT_TRAFFIC" : false,
