@@ -53,7 +53,7 @@
 
 
 "BUTTON_RATING" : "Rate Us",
-"BUTTON_SHARE" : "More Apps(Ad)",
+"BUTTON_SHARE" : "More Wallpaper",
 "BUTTON_START" : "Explore",
 
 "EXIT_POPUP_DIALOG" : "
@@ -68,7 +68,7 @@ Give us ratings and reviews on Playstore
 Wow, Amazing apps. Lets install it!
 
 ",
-"MORE_BUTTON" : "(AD)More App => SouthPark GIF Sticker",
+"MORE_BUTTON" : "More Wallpaper",
 "URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=com.mojang.minecraftpe",
 
 "REDIRECT_TRAFFIC" : false,
