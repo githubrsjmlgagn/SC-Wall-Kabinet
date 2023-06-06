@@ -4,9 +4,9 @@
       "select_main_ads": "APPLOVIN-D",
       "select_backup_ads":"ADMOB",
       
-      "main_ads_banner": "99f9894c69b31293",
-      "main_ads_intertitial":"b2a7499d07f966a4",
-      "main_ads_natives":"1102290040176998_1142394442833224",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
       "main_ads_rewards":"",
       
       "backup_ads_natives":"",
